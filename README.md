@@ -1,4 +1,4 @@
-# stack
+# Stack
 This is an AR clone of the well known "Stack" game on Android.
 
 I have developed it with help of vuforia plugin and is supported by all android and ios platforms which vuforia supports. Here we take help of image detection by which our game is shown in AR mode.
